@@ -8,6 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/syedsbhasan/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/syedsbhasan/configure-ad)
+  - [Creating Users with PowerShell](https://github.com/syedsbhasan/creating-users/tree/syedshahabulhasan)
   - [Group Policy Management](https://github.com/syedsbhasan/group-policy-management)
 
 <h2>🤳Connect with me:</h2>
